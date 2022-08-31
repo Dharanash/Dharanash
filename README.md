@@ -1,7 +1,7 @@
 [![MasterHead](https://th.bing.com/th/id/R.e7244a8c2d4385ccbe6e7cf8436433c3?rik=CRcH2VwhFqUUcw&riu=http%3a%2f%2fwww.cirencommunications.com%2fwp-content%2fuploads%2f2015%2f10%2fInside-Banner-Animated.gif&ehk=hoocLzehfla%2fTjkB1CAdfNgpRa9fQUJSfx8MtP5xazE%3d&risl=&pid=ImgRaw&r=0)](https://dharanash.io)
 
-<h1 align="center">Hi 👋, I'm Dharanash S</h1>
-<h4 align="center">Front-end Developer, Intern at Microsoft FRTP, Chasing at Full stack Development, Never-ending Learner, Technology lover , love to Solve Problems, A Coding Freak ❤💻</h4>
+<h1 align="center">Hello 👋, World S</h1>
+<h3 align="center">I am Dharanash ❤💻</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
